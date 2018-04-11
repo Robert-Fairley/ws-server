@@ -4,8 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "publish": "git push",
-    "prepublish": "npm test",
     "build": "tsc",
     "prebuild": "npm test",
     "start": "node ./dist/server/server.js",

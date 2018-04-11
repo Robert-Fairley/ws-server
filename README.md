@@ -4,7 +4,7 @@ Quick WebSockets server for handling plaintext chat simulation.
 
 Use a client with plaintext input and output to connect to the server at `ws://localhost:8999` after setup
 
-You could try, [Smart WebSocket Client](https://chrome.google.com/webstore/detail/smart-websocket-client/omalebghpgejjiaoknljcfmglgbpocdp)
+You could try [Smart WebSocket Client](https://chrome.google.com/webstore/detail/smart-websocket-client/omalebghpgejjiaoknljcfmglgbpocdp)
 
 ### Requirements
 
