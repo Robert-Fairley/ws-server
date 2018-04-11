@@ -1,0 +1,11 @@
+# IGNORE
+
+# Node
+/node_modules/
+
+# App
+/dist/
+
+# Common
+.DS_Store
+
